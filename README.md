@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @zani300
 - 👀 I’m interested in zani
 - 🌱 I’m currently learning html,css,js
-- 💞️ I’m looking to collaborate on chlen
+- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me - telegram
 
 <!---
